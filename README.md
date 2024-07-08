@@ -2,7 +2,7 @@
 
 <h3>LinkedIn :</h3>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/richardpardosi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/richardpardosi"/>
   </a>
 </div>
