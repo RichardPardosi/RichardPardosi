@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+
 <h3>LinkedIn</h3>
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -5,7 +7,7 @@
   </a>
 </div>
 
-<h3>Tools :</h3>
+<h3>Languages & Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
