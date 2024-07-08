@@ -1,6 +1,5 @@
-<a href="your-linkedin-URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen)" alt="LinkedIn Badge"/>
-  </a>
+<img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen)" alt="LinkedIn Badge"/>
+
 
 <h3>LinkedIn</h3>
 <div id="badges">
