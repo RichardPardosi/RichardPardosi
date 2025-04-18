@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 15 April 2025
+From: 19 March 2025 - To: 16 April 2025
 
-Total Time: 0 secs
+Total Time: 21 mins
 
-No activity tracked
+Java     12 mins         >>>>>>>>>>>>>>-----------   54.90 %
+Python   9 mins          >>>>>>>>>>---------------   41.16 %
+Other    0 secs          >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
