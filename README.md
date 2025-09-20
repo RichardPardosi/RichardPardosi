@@ -15,15 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 17 September 2025
+From: 19 March 2025 - To: 19 September 2025
 
-Total Time: 29 hrs 20 mins
+Total Time: 31 hrs 29 mins
 
-Java     26 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>----   84.56 %
-Other    2 hrs 6 mins    >>-----------------------   06.72 %
-Python   1 hr 54 mins    >>-----------------------   06.06 %
-Go       42 mins         >------------------------   02.24 %
-HTML     7 mins          -------------------------   00.42 %
+Java         26 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>-----   79.13 %
+Other        2 hrs 6 mins    >>-----------------------   06.29 %
+Python       1 hr 54 mins    >------------------------   05.67 %
+HTML         1 hr 53 mins    >------------------------   05.64 %
+Go           42 mins         >------------------------   02.10 %
+CSS          21 mins         -------------------------   01.09 %
+JavaScript   1 min           -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
