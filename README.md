@@ -7,10 +7,6 @@
   </a>
 </div>
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardPardosi&layout=compact&theme=vision-friendly-dark)](https://github.com/RichardPardosi)
-
-
 
 <!--START_SECTION:waka-->
 
